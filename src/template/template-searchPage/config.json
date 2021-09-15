@@ -1,0 +1,12 @@
+{
+    "view":"jsx",
+    "style":"css",
+    "reducers":"js",
+    "me":"json",
+    "server":"js",
+	"jsx": {
+		"handle":"jsx",
+		"header":"jsx",
+		"list":"jsx"
+	}
+}

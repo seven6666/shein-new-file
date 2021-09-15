@@ -1,7 +1,7 @@
-const message = require('./message.js');
+const showPathInput = require('./showPathInput.js');
 
  function activate(context) {
-    context.subscriptions.push(message);
+    context.subscriptions.push(showPathInput);
 }
 
 module.exports = {
