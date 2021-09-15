@@ -16,7 +16,7 @@
 
 这个扩展旨在使VSCode快速创建对应的项目模版,简化复制粘贴的操作
 ## 演示
-![演示](img/handle.gif)
+![演示](https://github.com/seven6666/shein-new-file/blob/main/img/handle.gif?raw=true)
 ## 特性
 
 ***
@@ -45,9 +45,9 @@ ext install shein-cv
 步骤
 本扩展使用一般分为3个步骤，分别是：激活命令、输入生成的路径、 选择文件模板
 
-**第一步：** 使用命令面板菜单激活（<kbd>shift+command+P</kbd>）
+**第一步：** 使用命令面板菜单激活（<kbd>shift+command+P</kbd>）搜索wms
 
-![工作区添加目录](img/open-workspace.png)
+![工作区添加目录](https://github.com/seven6666/shein-new-file/blob/main/img/open-workspace.png?raw=true)
 
 
 
@@ -57,19 +57,18 @@ ext install shein-cv
 * 例如 想在src/component/outbound 下新建一下文件夹xxx目录
 * 就可以输入 outbound/xxx  回车就可以
 
-![路径](img/custom-path-selector.jpg)
+![路径](https://github.com/seven6666/shein-new-file/blob/main/img/custom-path-selector.jpg?raw=true)
 
 
 
 
 **第三步：** 选择生成对应的模版
 
-![模版](img/template.jpg)
+![模版](https://github.com/seven6666/shein-new-file/blob/main/img/template.jpg?raw=true)
 
 * 1.标准的查询页面模版对应
-![模版1](img/template-searchPage.jpg)
 * 2.列表详情页面模版
-![模版2](img/template-detailPage.jpg)
+
 
 
 
